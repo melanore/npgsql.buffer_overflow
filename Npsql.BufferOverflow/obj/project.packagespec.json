@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Workspace\\Code\\npgsql.buffer_overflow\\Npsql.BufferOverflow\\Npsql.BufferOverflow.csproj",
+    "projectName": "Npsql.BufferOverflow",
+    "projectPath": "C:\\Workspace\\Code\\npgsql.buffer_overflow\\Npsql.BufferOverflow\\Npsql.BufferOverflow.csproj",
+    "outputPath": "C:\\Workspace\\Code\\npgsql.buffer_overflow\\Npsql.BufferOverflow\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Npgsql": {
+          "target": "Package",
+          "version": "[4.0.4, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

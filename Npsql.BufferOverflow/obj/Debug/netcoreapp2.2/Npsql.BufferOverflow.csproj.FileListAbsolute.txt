@@ -1,0 +1,11 @@
+C:\Workspace\Code\npgsql.buffer_overflow\Npsql.BufferOverflow\bin\Debug\netcoreapp2.2\Npsql.BufferOverflow.deps.json
+C:\Workspace\Code\npgsql.buffer_overflow\Npsql.BufferOverflow\bin\Debug\netcoreapp2.2\Npsql.BufferOverflow.runtimeconfig.json
+C:\Workspace\Code\npgsql.buffer_overflow\Npsql.BufferOverflow\bin\Debug\netcoreapp2.2\Npsql.BufferOverflow.runtimeconfig.dev.json
+C:\Workspace\Code\npgsql.buffer_overflow\Npsql.BufferOverflow\bin\Debug\netcoreapp2.2\Npsql.BufferOverflow.dll
+C:\Workspace\Code\npgsql.buffer_overflow\Npsql.BufferOverflow\bin\Debug\netcoreapp2.2\Npsql.BufferOverflow.pdb
+C:\Workspace\Code\npgsql.buffer_overflow\Npsql.BufferOverflow\obj\Debug\netcoreapp2.2\Npsql.BufferOverflow.csprojAssemblyReference.cache
+C:\Workspace\Code\npgsql.buffer_overflow\Npsql.BufferOverflow\obj\Debug\netcoreapp2.2\Npsql.BufferOverflow.csproj.CoreCompileInputs.cache
+C:\Workspace\Code\npgsql.buffer_overflow\Npsql.BufferOverflow\obj\Debug\netcoreapp2.2\Npsql.BufferOverflow.AssemblyInfoInputs.cache
+C:\Workspace\Code\npgsql.buffer_overflow\Npsql.BufferOverflow\obj\Debug\netcoreapp2.2\Npsql.BufferOverflow.AssemblyInfo.cs
+C:\Workspace\Code\npgsql.buffer_overflow\Npsql.BufferOverflow\obj\Debug\netcoreapp2.2\Npsql.BufferOverflow.dll
+C:\Workspace\Code\npgsql.buffer_overflow\Npsql.BufferOverflow\obj\Debug\netcoreapp2.2\Npsql.BufferOverflow.pdb
